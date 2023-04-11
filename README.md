@@ -23,7 +23,7 @@ pip install -U pip setuptools wheel
 python -m spacy download es_core_news_sm
 ```
 
-## 2. thesis_training: Training Multiple Dlassifiers <a name="thesis_training"></a>
+## 2. thesis_training: Training Multiple Classifiers <a name="thesis_training"></a>
 
 This script is responsible for the training of multiple classifiers on a dataset and saving the best performing model.
 
