@@ -3,3 +3,4 @@ pandas==1.4.4
 pyspellchecker==0.7.1
 spacy==3.5.0
 tweepy==4.12.1
+Django==4.2
